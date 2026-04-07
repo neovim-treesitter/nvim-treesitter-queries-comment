@@ -1,9 +1,9 @@
 {
-  "parser_version": "66272d2b6c73fb61157541b69dd0a7ce7b42a5ad",
-  "location": null,
-  "lang": "comment",
+  "semver": false,
   "generate": null,
   "generate_from_json": null,
   "url": "https://github.com/stsewd/tree-sitter-comment",
-  "semver": false
+  "lang": "comment",
+  "parser_version": "66272d2b6c73fb61157541b69dd0a7ce7b42a5ad",
+  "location": null
 }
